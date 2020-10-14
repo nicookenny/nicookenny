@@ -55,11 +55,11 @@ Windows                         ████████████████
 
 <h2>Henryware<h2>
 
-<center>
+<p align="center>
 <img src="https://i.ibb.co/kmKPfh7/Whats-App-Image-2020-10-02-at-14-16-15.jpg" height="500px"/><img src="https://i.ibb.co/L6DnYjR/Whats-App-Image-2020-10-02-at-14-16-13.jpg" height="600px"/> 
 <img src="https://i.ibb.co/V2dGhdy/Whats-App-Image-2020-10-02-at-14-16-15-1.jpg" height="500px"/> 
 <img src="https://i.ibb.co/TwxHBR9/Whats-App-Image-2020-10-02-at-14-16-14-3.jpg" height="500px"/> 
-</center>
+</p>
 
 ### Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como ReactJS, Redux, NodeJS, ExpressJS y PostgreSQL y utilizando metodologías ágiles (SCRUM) 
 
