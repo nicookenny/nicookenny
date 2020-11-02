@@ -55,7 +55,6 @@ Windows                         ████████████████
 <h1> 💻 My projects*</h1>
 
 <h2>Henryware<h2>
-
 <p align="center">
 
 Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como ReactJS, Redux, NodeJS, ExpressJS y PostgreSQL, utilizando metodologías ágiles (SCRUM).
@@ -69,6 +68,8 @@ Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como React
 <img src="https://i.ibb.co/TwxHBR9/Whats-App-Image-2020-10-02-at-14-16-14-3.jpg" height="500px"/>
 
 </p>
+
+<h2>Quantum wallet<h2>
 
 <p align="center">
 
