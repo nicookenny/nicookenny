@@ -8,13 +8,13 @@ const nicookenny = {
 	code: ['Javascript', 'Python', 'PHP'],
 	askMeAbout: ['Videogames', 'Tech', 'Programming'],
 	technologies: {
-		mobileApp: ['React native'],
+		mobileApp: ['React native','Expo'],
 		frontEnd: {
 			js: ['ReactJS', 'Redux', 'Vanilla'],
 			css: ['Bootstrap', 'Material UI', 'SASS'],
 		},
 		backEnd: {
-			js: ['NodeJS', 'ExpressJS'],
+			js: ['NodeJS', 'ExpressJS','MoleculerJS'],
 		},
 		databases: ['PostgreSQL', 'MySQL', 'Sequelize'],
 	},
