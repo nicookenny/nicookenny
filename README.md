@@ -58,7 +58,7 @@ Windows                         ████████████████
 
 <p align="center">
 
-### Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como ReactJS, Redux, NodeJS, ExpressJS y PostgreSQL, utilizando metodologías ágiles (SCRUM).
+Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como ReactJS, Redux, NodeJS, ExpressJS y PostgreSQL, utilizando metodologías ágiles (SCRUM).
 
 </p>
 
@@ -72,7 +72,7 @@ Windows                         ████████████████
 
 <p align="center">
 
-### Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como React Native, NodeJS con MoleculerJS con una arquitectura orientada a microservicios y MySQL, utilizando metodologías ágiles (SCRUM).
+Proyecto realizado en el Bootcamp - HENRY trabajando con tecnologías como React Native, NodeJS con MoleculerJS con una arquitectura orientada a microservicios y MySQL, utilizando metodologías ágiles (SCRUM).
 
 </p>
 
