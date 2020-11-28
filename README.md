@@ -20,7 +20,7 @@ const nicookenny = {
                 desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD']
 	},
 	architecture: ['Microservices', 'Progressive web applications', 'SPA'],
-	currentProject: 'Real time chat - React native and Socket.IO',
+	currentProject: 'HENRY Grads - A platform to find projects and work teams',
 };
 ```
 
