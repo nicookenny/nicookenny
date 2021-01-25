@@ -11,10 +11,10 @@ const nicookenny = {
 		mobileApp: ['React native','Expo'],
 		frontEnd: {
 			js: ['ReactJS', 'Redux', 'Vanilla'],
-			css: ['Bootstrap', 'Material UI', 'SASS'],
+			css: ['Bootstrap', 'Material UI', 'SASS','Styled components'],
 		},
 		backEnd: {
-			js: ['NodeJS', 'ExpressJS','MoleculerJS'],
+			js: ['NodeJS', 'ExpressJS','MoleculerJS','GraphQL'],
 		},
 		databases: ['PostgreSQL', 'MySQL', 'Sequelize'],
                 desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD']
