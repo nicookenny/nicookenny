@@ -8,7 +8,7 @@ const nicookenny = {
 	code: ['Javascript', 'Python', 'PHP'],
 	askMeAbout: ['Videogames', 'Tech', 'Programming'],
 	technologies: {
-		mobileApp: ['React native','Expo'],
+		mobileApp: ['React native','Expo','Android Studio'],
 		frontEnd: {
 			js: ['ReactJS', 'Redux', 'Vanilla'],
 			css: ['Bootstrap', 'Material UI', 'SASS','Styled components'],
