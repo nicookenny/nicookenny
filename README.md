@@ -16,8 +16,8 @@ const nicookenny = {
 		backEnd: {
 			js: ['NodeJS', 'ExpressJS','MoleculerJS','GraphQL'],
 		},
-		databases: ['PostgreSQL', 'MySQL', 'Sequelize'],
-                desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD']
+		databases: ['PostgreSQL', 'MySQL', 'Sequelize','Firebase'],
+                desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD','UX/UI Design']
 	},
 	architecture: ['Microservices', 'Progressive web applications', 'SPA'],
 	currentProject: 'HENRY Grads - A platform to find projects and work teams',
