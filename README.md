@@ -5,34 +5,28 @@
 
 ```javascript
 const nicookenny = {
-	code: ['Javascript', 'Python', 'PHP'],
+	code: ['Javascript','Typescript', 'Python', 'PHP'],
 	askMeAbout: ['Videogames', 'Tech', 'Programming'],
 	technologies: {
 		mobileApp: ['React native','Expo','Android Studio'],
 		frontEnd: {
-			js: ['ReactJS', 'Redux', 'Vanilla'],
+			js: ['ReactJS', 'Redux', 'Vanilla','React Query'],
 			css: ['Bootstrap', 'Material UI', 'SASS','Styled components'],
 		},
 		backEnd: {
 			js: ['NodeJS', 'ExpressJS','MoleculerJS','GraphQL'],
 		},
-		databases: ['PostgreSQL', 'MySQL', 'Sequelize','Firebase'],
+		databases: ['PostgreSQL', 'MySQL', 'Sequelize','Firebase','MongoDB','Mongoose'],
                 desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD','UX/UI Design']
 	},
 	architecture: ['Microservices', 'Progressive web applications', 'SPA'],
-	currentProject: 'HENRY Grads - A platform to find projects and work teams',
+	currentProject: 'None',
 };
 ```
 
 <em><b>I love learning new things everytime</b> so I'll appreciate any ideas to continue <b>growing in IT world!</b> </em>
 
 ---
-
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
 
 <h1> 💻 My projects*</h1>
 
