@@ -5,21 +5,21 @@
 
 ```javascript
 const nicookenny = {
-	code: ['Javascript','Typescript', 'Python', 'PHP'],
+	code: ['Javascript','Typescript', 'Python'],
 	askMeAbout: ['Videogames', 'Tech', 'Programming'],
 	technologies: {
 		mobileApp: ['React native','Expo','Android Studio'],
 		frontEnd: {
-			js: ['ReactJS', 'Redux', 'Vanilla','React Query'],
+			js: ['ReactJS', 'Redux', 'Vanilla','React Query','Formik','Axios'],
 			css: ['Bootstrap', 'Material UI', 'SASS','Styled components'],
 		},
 		backEnd: {
-			js: ['NodeJS', 'ExpressJS','MoleculerJS','GraphQL'],
+			js: ['NodeJS', 'ExpressJS', 'MoleculerJS', 'GraphQL', 'Socket IO'],
 		},
 		databases: ['PostgreSQL', 'MySQL', 'Sequelize','Firebase','MongoDB','Mongoose'],
                 desing:['Adobe Illustrator','Adobe Photoshop', 'Adobe XD','UX/UI Design']
 	},
-	architecture: ['Microservices', 'Progressive web applications', 'SPA'],
+	architecture: ['Microservices', 'Progressive web applications', 'SPA', 'Serverless AWS'],
 	currentProject: 'None',
 };
 ```
